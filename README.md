@@ -8,7 +8,7 @@ Includes schematic design, PCB layout, and custom component libraries.
 
 Documentation
 
-[View Schematic PDF](Docs/flight_controller.pdf)
+[View Schematic PDF](Docsflight_controller.pdf)
 
 
 Files
@@ -20,15 +20,15 @@ README.md — project description file
 
 How to Open
 
-Option 1: Download ZIP
+Option 1 Download ZIP
 Click Code → Download ZIP on GitHub.
 Extract the ZIP file to a folder on your computer.
 Open the extracted folder.
 Open the .PrjPcb file in Altium Designer.
 
-Note: Do not open the project directly from inside the ZIP archive. Extract the files first.
+Note Do not open the project directly from inside the ZIP archive. Extract the files first.
 
-Option 2: Clone Repository
+Option 2 Clone Repository
 Clone the repository using GitHub Desktop or Git.
 After cloning, the project files will already be stored in a normal folder.
 Open the cloned folder.
@@ -36,7 +36,7 @@ Open the .PrjPcb file in Altium Designer.
 
 Status
 
-Project status: In development
+Project status In development
 
 Author
 
