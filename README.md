@@ -8,7 +8,8 @@ Includes schematic design, PCB layout, and custom component libraries.
 
 Documentation
 
-[View Schematic PDF](Docsflight_controller.pdf)
+[View Schematic PDF](Docs/flight_controller.pdf)
+
 
 
 Files
@@ -41,3 +42,4 @@ Project status In development
 Author
 
 Araksya Harutyunyan
+
