@@ -20,6 +20,10 @@ Includes schematic design, PCB layout, and custom component libraries.
 
 
 
+###### Schematic
+
+
+
 <img src="Docs/1.PNG" width="800">
 
 <img src="Docs/2.PNG" width="800">
@@ -31,6 +35,12 @@ Includes schematic design, PCB layout, and custom component libraries.
 <img src="Docs/5.PNG" width="800">
 
 <img src="Docs/6.PNG" width="800">
+
+
+
+###### 3D overview 
+
+
 
 <img src="Docs/7.png" width="800">
 
