@@ -18,13 +18,19 @@ Includes schematic design, PCB layout, and custom component libraries.
 
 ##### Screenshots
 
-!\[PCB Layout](Docs/1.png)
+Docs/1.png
 
 ##### Files
 
 PCB1.PcbDoc — PCB layout file
+
+
 PcbLib.PcbLib — PCB footprint library
+
+
 Schlib.SchLib — schematic symbol library
+
+
 README.md — project description file
 
 
