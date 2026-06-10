@@ -18,7 +18,7 @@ Includes schematic design, PCB layout, and custom component libraries.
 
 ##### Screenshots
 
-Docs/1.png
+!\[PCB Layout](Docs/1.PNG)
 
 ##### Files
 
