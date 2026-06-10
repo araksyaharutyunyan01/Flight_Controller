@@ -20,7 +20,7 @@ Includes schematic design, PCB layout, and custom component libraries.
 
 
 
-!\[PCB Layout](Docs/1.PNG)
+<img src="Docs/1.PNG" width="800">
 
 
 
